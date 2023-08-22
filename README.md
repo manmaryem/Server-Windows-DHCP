@@ -62,6 +62,7 @@ Vérifiez que l'adresse IP, le masque de sous-réseau, la passerelle par défaut
 
 Le client qui possède la réservation n'obtient pas une autre IPv4, même si il demande un renouvellement.
 
-![image](https://github.com/manmaryem/Server-Windows-DHCP/assets/137881827/7d331d6f-701c-4803-9666-e451dca93ffd)
+![image](https://github.com/manmaryem/Server-Windows-DHCP/assets/137881827/360fe17e-e7f0-4bc8-a2d9-ef371051674c)
+
 
 
